@@ -17,7 +17,7 @@ const testimonialData = [
   {
     id: 3,
     name: "Carlos",
-    text: "Red, White & Royal Blue is an enchanting romantic comedy with vibrant characters, heartfelt moments, and an irresistibly charming storyline.",
+    text: "Twilight is a captivating novel with a compelling storyline, vivid characters, and an enchanting romance that keeps readers enthralled.",
     img: "https://images.hellomagazine.com/horizon/square/a1c76d8adedc-carlos-lonestar-t.jpg",
   },
 ];

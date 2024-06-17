@@ -25,9 +25,9 @@ const BooksData = [
   {
     id: 3,
     img: Book3,
-    title: "Red, White & Royal Blue",
+    title: "Twilight (Meyer novel)",
     rating: "4.5",
-    author: "Casey McQuiston",
+    author: "Stephenie Meyer",
   },
   {
     id: 4,

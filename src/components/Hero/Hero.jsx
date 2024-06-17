@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 /* eslint-disable react/jsx-key */
 import { useState } from "react";
 import Book1 from "../../assets/books/book1.jpg";
@@ -23,9 +24,9 @@ const ImageList = [
   {
     id: 3,
     img: Book3,
-    title: "Red, White & Royal Blue",
+    title: "Twilight (Meyer novel)",
     description:
-      "Red, White & Royal Blue is an LGBT romance novel by American author Casey McQuiston, originally published on May 14, 2019, by St Martin's Griffin. It centres on the character of Alex Claremont-Diaz, a first son of the United States, and his romantic relationship with Prince Henry, a British prince. Upon release, the novel received positive reviews with praise given to the representation of a queer male relationship. A film adaptation was released on August 11, 2023.",
+      "Twilight (stylized as twilight) is a 2005 young adult vampire-romance novel by author Stephenie Meyer. It is the first book in the Twilight series, and introduces seventeen-year-old Isabella Bella Swan, who moves from Phoenix, Arizona, to Forks, Washington.",
   },
 ];
 
